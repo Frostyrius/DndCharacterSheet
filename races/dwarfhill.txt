@@ -1,0 +1,9 @@
+name=Hill Dwarf
+firstlevel=hp:1,constitution:2,wisdom:1
+otherlevels=hp:1
+size=medium
+speed=25
+darkvision=60
+prof=battleaxe,handaxe,throwing hammer,warhammer
+profchoose=1,smith's tools, brewer's supplies,mason's tools
+languages=dwarvish
